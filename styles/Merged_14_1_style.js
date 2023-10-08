@@ -21,7 +21,7 @@ var style_Merged_14_1 = function(feature, resolution){
         labelText = String("");
     }
     var style = [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(229,0,3,1.0)', lineDash: null, lineCap: 'square', lineJoin: 'bevel', width: 4}),
+        stroke: new ol.style.Stroke({color: 'rgba(225,0,3,1.0)', lineDash: null, lineCap: 'square', lineJoin: 'bevel', width: 3}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth)
