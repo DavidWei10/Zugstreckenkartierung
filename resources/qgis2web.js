@@ -32,7 +32,7 @@ var map = new ol.Map({
 });
 
 
-map.getView().fit([563903.587324, 6221374.793929, 1305555.714411, 6762650.536648], map.getSize());
+map.getView().fit([581761.473007, 6240370.287155, 1325213.524051, 6782054.094581], map.getSize());
 
 var NO_POPUP = 0
 var ALL_FIELDS = 1
